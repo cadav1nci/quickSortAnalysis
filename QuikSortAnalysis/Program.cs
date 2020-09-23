@@ -45,8 +45,23 @@ namespace QuikSortAnalysis
 
         public static int Rand_Parti(int[] A, int p, int r)
         {
-            int i = Random(p, r);
-            return 0;
+            Random rnd = new Random();
+
+            int i = rnd.Next(p, r);
+            int aux = A[r];
+            A[r] = A[i];
+            A[i] = aux;
+            return partition(A,p,r);
+        }
+
+        public static void Randomized_QuickSort(int[] A, int p, int r)
+        {
+            if (p<r)
+            {
+                int q = Rand_Parti(A, p, r);
+                Randomized_QuickSort(A, p, q - 1);
+                Randomized_QuickSort(A, q + 1, p);
+            }
         }
     }
 }
