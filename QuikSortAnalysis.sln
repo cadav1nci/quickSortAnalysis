@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuikSortAnalysis", "QuikSortAnalysis\QuikSortAnalysis.csproj", "{64C76FAC-A134-4D46-AEBB-B94DFB241F88}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QuikSortAnalysisTest", "QuikSortAnalysisTest\QuikSortAnalysisTest.vbproj", "{1827A842-BE21-4D03-8420-628CDA215531}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{64C76FAC-A134-4D46-AEBB-B94DFB241F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64C76FAC-A134-4D46-AEBB-B94DFB241F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64C76FAC-A134-4D46-AEBB-B94DFB241F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1827A842-BE21-4D03-8420-628CDA215531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1827A842-BE21-4D03-8420-628CDA215531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1827A842-BE21-4D03-8420-628CDA215531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1827A842-BE21-4D03-8420-628CDA215531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
