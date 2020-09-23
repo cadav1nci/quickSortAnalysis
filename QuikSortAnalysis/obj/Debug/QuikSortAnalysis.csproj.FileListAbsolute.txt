@@ -1,0 +1,7 @@
+C:\Users\rdgz\Desktop\WorkSpaces\C# WorkSpace\quickSortAnalysis\QuikSortAnalysis\bin\Debug\QuikSortAnalysis.exe.config
+C:\Users\rdgz\Desktop\WorkSpaces\C# WorkSpace\quickSortAnalysis\QuikSortAnalysis\bin\Debug\QuikSortAnalysis.exe
+C:\Users\rdgz\Desktop\WorkSpaces\C# WorkSpace\quickSortAnalysis\QuikSortAnalysis\bin\Debug\QuikSortAnalysis.pdb
+C:\Users\rdgz\Desktop\WorkSpaces\C# WorkSpace\quickSortAnalysis\QuikSortAnalysis\obj\Debug\QuikSortAnalysis.csprojAssemblyReference.cache
+C:\Users\rdgz\Desktop\WorkSpaces\C# WorkSpace\quickSortAnalysis\QuikSortAnalysis\obj\Debug\QuikSortAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\rdgz\Desktop\WorkSpaces\C# WorkSpace\quickSortAnalysis\QuikSortAnalysis\obj\Debug\QuikSortAnalysis.exe
+C:\Users\rdgz\Desktop\WorkSpaces\C# WorkSpace\quickSortAnalysis\QuikSortAnalysis\obj\Debug\QuikSortAnalysis.pdb
