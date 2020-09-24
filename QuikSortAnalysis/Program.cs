@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace QuikSortAnalysis
 {
-  public  class Algorithm
+  public  class Program
     {
         static void Main(string[] args)
         {
         }
 
-        public Algorithm()
+        public Program()
         {
 
         }

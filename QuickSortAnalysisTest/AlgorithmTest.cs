@@ -7,7 +7,7 @@ namespace QuickSortAnalysisTest
     [TestClass]
     public class AlgorithmTest
     {
-        Algorithm qs;
+        Program qs;
 
         [TestMethod]
         public void qsTest()
