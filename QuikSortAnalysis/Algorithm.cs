@@ -7,10 +7,15 @@ using System.Threading.Tasks;
 
 namespace QuikSortAnalysis
 {
-    class Program
+  public  class Algorithm
     {
         static void Main(string[] args)
         {
+        }
+
+        public Algorithm()
+        {
+
         }
 
         public static void quick_sort(int[] arr, int p, int r)

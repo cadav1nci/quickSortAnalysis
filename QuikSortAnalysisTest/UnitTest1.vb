@@ -1,5 +1,6 @@
 ﻿Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
+Using Program;
 
 <TestClass()> Public Class UnitTest1
 
