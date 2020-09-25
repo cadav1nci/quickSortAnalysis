@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rdgz\\Desktop\\WorkSpaces\\C# WorkSpace\\quickSortAnalysis\\QuickSortTests\\QuickSortTests.csproj": {}
+    "C:\\Users\\Juan\\Documents\\Universidad Icesi\\6 Semestre\\Proyecto Integrador\\Proyectos C#\\quickSortAnalysis\\QuickSortTests\\QuickSortTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rdgz\\Desktop\\WorkSpaces\\C# WorkSpace\\quickSortAnalysis\\QuickSortTests\\QuickSortTests.csproj": {
+    "C:\\Users\\Juan\\Documents\\Universidad Icesi\\6 Semestre\\Proyecto Integrador\\Proyectos C#\\quickSortAnalysis\\QuickSortTests\\QuickSortTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rdgz\\Desktop\\WorkSpaces\\C# WorkSpace\\quickSortAnalysis\\QuickSortTests\\QuickSortTests.csproj",
+        "projectUniqueName": "C:\\Users\\Juan\\Documents\\Universidad Icesi\\6 Semestre\\Proyecto Integrador\\Proyectos C#\\quickSortAnalysis\\QuickSortTests\\QuickSortTests.csproj",
         "projectName": "QuickSortTests",
-        "projectPath": "C:\\Users\\rdgz\\Desktop\\WorkSpaces\\C# WorkSpace\\quickSortAnalysis\\QuickSortTests\\QuickSortTests.csproj",
-        "packagesPath": "C:\\Users\\rdgz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rdgz\\Desktop\\WorkSpaces\\C# WorkSpace\\quickSortAnalysis\\QuickSortTests\\obj\\",
+        "projectPath": "C:\\Users\\Juan\\Documents\\Universidad Icesi\\6 Semestre\\Proyecto Integrador\\Proyectos C#\\quickSortAnalysis\\QuickSortTests\\QuickSortTests.csproj",
+        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan\\Documents\\Universidad Icesi\\6 Semestre\\Proyecto Integrador\\Proyectos C#\\quickSortAnalysis\\QuickSortTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rdgz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
