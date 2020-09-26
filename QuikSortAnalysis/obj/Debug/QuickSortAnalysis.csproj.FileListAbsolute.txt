@@ -1,0 +1,7 @@
+C:\Users\Juan\Documents\Universidad Icesi\6 Semestre\Proyecto Integrador\Proyectos C#\quickSortAnalysis\QuikSortAnalysis\bin\Debug\QuikSortAnalysis.exe.config
+C:\Users\Juan\Documents\Universidad Icesi\6 Semestre\Proyecto Integrador\Proyectos C#\quickSortAnalysis\QuikSortAnalysis\bin\Debug\QuikSortAnalysis.exe
+C:\Users\Juan\Documents\Universidad Icesi\6 Semestre\Proyecto Integrador\Proyectos C#\quickSortAnalysis\QuikSortAnalysis\bin\Debug\QuikSortAnalysis.pdb
+C:\Users\Juan\Documents\Universidad Icesi\6 Semestre\Proyecto Integrador\Proyectos C#\quickSortAnalysis\QuikSortAnalysis\obj\Debug\QuickSortAnalysis.csprojAssemblyReference.cache
+C:\Users\Juan\Documents\Universidad Icesi\6 Semestre\Proyecto Integrador\Proyectos C#\quickSortAnalysis\QuikSortAnalysis\obj\Debug\QuickSortAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Universidad Icesi\6 Semestre\Proyecto Integrador\Proyectos C#\quickSortAnalysis\QuikSortAnalysis\obj\Debug\QuikSortAnalysis.exe
+C:\Users\Juan\Documents\Universidad Icesi\6 Semestre\Proyecto Integrador\Proyectos C#\quickSortAnalysis\QuikSortAnalysis\obj\Debug\QuikSortAnalysis.pdb
